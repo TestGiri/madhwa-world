@@ -1,2 +1,2 @@
 
-<h1> Hello,we have solved the issue /h1>
+<h1> Hello,we have solved the issue </h1>
