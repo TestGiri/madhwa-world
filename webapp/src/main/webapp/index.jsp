@@ -23,7 +23,7 @@ body {background-position:center;background-repeat:no-repeat; background-size: c
 								 <p><u><b>todays menu</b></u></p>
 
 <ul>
-  <li style="color:red;">Red coffee</li>
+  <li style="color:brown;">Red coffee</li>
   <li style="color:red;">Jinger Tea</li>
   <li style="color:green;">Green Tea</li>
   <li style="color:Yellow;">Badam Milk</li>
