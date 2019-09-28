@@ -27,5 +27,5 @@ body {background-position:center;background-repeat:no-repeat; background-size: c
   <li style="color:red;">Jinger Tea</li>
   <li style="color:green;">Green Tea</li>
   <li style="color:Yellow;">Badam Milk</li>
-  <li style="color:Yello;">French Fry</li>
+  <li style="color:Yellow;">French Fry</li>
 </ul>
