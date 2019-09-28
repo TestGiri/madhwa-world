@@ -8,7 +8,7 @@ body {background-position:center;background-repeat:no-repeat; background-size: c
 
 </style>
 
-<h1><u><b>Welcome to my beach coffe bar!!!</b></u></h1>
+<h1><u><b>Welcome to my beach coffe bar</b></u></h1>
 
 <body background="sunset.jpg"
 
@@ -27,4 +27,5 @@ body {background-position:center;background-repeat:no-repeat; background-size: c
   <li style="color:red;">Jinger Tea</li>
   <li style="color:green;">Green Tea</li>
   <li style="color:Yellow;">Badam Milk</li>
+  <li style="color:Yello;">French Fry</li>
 </ul>
